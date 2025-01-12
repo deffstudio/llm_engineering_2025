@@ -9,3 +9,4 @@ textblob
 nltk
 spacy
 ollama
+anthropic
