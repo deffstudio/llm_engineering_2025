@@ -11,3 +11,4 @@ spacy
 ollama
 anthropic
 gradio
+ipywidgets
