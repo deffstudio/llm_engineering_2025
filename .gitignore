@@ -173,3 +173,7 @@ cython_debug/
 # igonre Gradio
 .gradio/
 
+# ignore Chroma 
+.chroma/
+/vector_db
+

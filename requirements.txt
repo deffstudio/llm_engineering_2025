@@ -12,3 +12,11 @@ ollama
 anthropic
 gradio
 ipywidgets
+langchain_core
+langchain_openai
+langchain_chroma
+langchain_community
+numpy
+scikit-learn
+plotly
+nbformat
